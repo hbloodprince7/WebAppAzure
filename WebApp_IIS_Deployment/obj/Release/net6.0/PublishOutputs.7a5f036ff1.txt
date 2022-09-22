@@ -1,0 +1,11 @@
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.exe
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.dll
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.deps.json
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.runtimeconfig.json
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\WebApp_IIS_Deployment.pdb
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\Microsoft.Azure.WebJobs.dll
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\WebApp_IIS_Deployment\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll

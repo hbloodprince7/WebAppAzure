@@ -1,0 +1,16 @@
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\bin\Release\net6.0\SimpleConsole.exe
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\bin\Release\net6.0\Settings.job
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\bin\Release\net6.0\SimpleConsole.deps.json
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\bin\Release\net6.0\SimpleConsole.runtimeconfig.json
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\bin\Release\net6.0\SimpleConsole.dll
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\bin\Release\net6.0\SimpleConsole.pdb
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\SimpleConsole.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\SimpleConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\SimpleConsole.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\SimpleConsole.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\SimpleConsole.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\SimpleConsole.dll
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\refint\SimpleConsole.dll
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\SimpleConsole.pdb
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\SimpleConsole.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\WebApp_IIS_Deployment\SimpleConsole\obj\Release\net6.0\ref\SimpleConsole.dll
